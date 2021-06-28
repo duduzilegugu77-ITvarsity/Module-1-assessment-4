@@ -1,0 +1,20 @@
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse:collapse
+}
+
+th{
+    font-weight:800;
+    background-color: aqua;
+}
+
+td{
+    background-color: cadetblue;
+    
+}
+
+h1{
+    font-weight: 800;
+    color: blueviolet;
+    font-family: sans-serif;
+}
